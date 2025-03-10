@@ -1,0 +1,36 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cyberinfrap2-dev-5c308-authRole",
+      "UnauthRoleArn": "arn:aws:iam::307946672805:role/amplify-cyberinfrap2-dev-5c308-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::307946672805:role/amplify-cyberinfrap2-dev-5c308-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cyberinfrap2-dev-5c308-deployment",
+      "UnauthRoleName": "amplify-cyberinfrap2-dev-5c308-unauthRole",
+      "StackName": "amplify-cyberinfrap2-dev-5c308",
+      "StackId": "arn:aws:cloudformation:us-east-2:307946672805:stack/amplify-cyberinfrap2-dev-5c308/b7236730-fd26-11ef-838d-02afd715d169",
+      "AmplifyAppId": "d1yxo3e4azqdyn"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cyberinfrap2-prod-42124-authRole",
+      "UnauthRoleArn": "arn:aws:iam::307946672805:role/amplify-cyberinfrap2-prod-42124-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::307946672805:role/amplify-cyberinfrap2-prod-42124-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cyberinfrap2-prod-42124-deployment",
+      "UnauthRoleName": "amplify-cyberinfrap2-prod-42124-unauthRole",
+      "StackName": "amplify-cyberinfrap2-prod-42124",
+      "StackId": "arn:aws:cloudformation:us-east-2:307946672805:stack/amplify-cyberinfrap2-prod-42124/d40c3ef0-fd2e-11ef-9acc-0a0df2bb0c71",
+      "AmplifyAppId": "d20gm9venpt3er"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d20gm9venpt3er",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
